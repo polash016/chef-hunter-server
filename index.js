@@ -1,8 +1,11 @@
 const express = require('express');
 const app = express();
 const port = 5000;
+const cors = require('cors')
 
 const data = require('./data/data.json');
+
+app.use(corse())
 
 app.get('/', (req, res) => {
     res.send("Server Is Running")
