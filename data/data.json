@@ -18,7 +18,15 @@
         "Salt to taste"
       ],
       "rating": 4.5,
-      "cooking_method": "1. Clean and wash the Hilsa fish thoroughly.\n2. Marinate the fish with turmeric powder and salt for 10 minutes.\n3. Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.\n4. In the same pan, add mustard paste and sauté for a minute.\n5. Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.\n6. Gently place the fried fish in the mustard gravy and cook for another 5 minutes.\n7. Serve hot with steamed rice."
+      "cooking_method": [
+        "Clean and wash the Hilsa fish thoroughly.",
+        "Marinate the fish with turmeric powder and salt for 10 minutes.",
+        "Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.",
+        "In the same pan, add mustard paste and sauté for a minute.",
+        "Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.",
+        "Gently place the fried fish in the mustard gravy and cook for another 5 minutes.",
+        "Serve hot with steamed rice."
+      ]
     },
     "recipe_2": {
       "name": "Bengali Shorshe Ilish",
@@ -30,8 +38,16 @@
         "1 teaspoon of turmeric powder",
         "Salt to taste"
       ],
-      "rating": 4.5,
-      "cooking_method": "1. Clean and wash the Hilsa fish thoroughly.\n2. Marinate the fish with turmeric powder and salt for 10 minutes.\n3. Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.\n4. In the same pan, add mustard paste and sauté for a minute.\n5. Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.\n6. Gently place the fried fish in the mustard gravy and cook for another 5 minutes.\n7. Serve hot with steamed rice."
+      "rating": 4.0,
+      "cooking_method": [
+        "Clean and wash the Hilsa fish thoroughly.",
+        "Marinate the fish with turmeric powder and salt for 10 minutes.",
+        "Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.",
+        "In the same pan, add mustard paste and sauté for a minute.",
+        "Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.",
+        "Gently place the fried fish in the mustard gravy and cook for another 5 minutes.",
+        "Serve hot with steamed rice."
+      ]
     },
     "recipe_3": {
       "name": "Bengali Shorshe Ilish",
@@ -43,8 +59,16 @@
         "1 teaspoon of turmeric powder",
         "Salt to taste"
       ],
-      "rating": 4.5,
-      "cooking_method": "1. Clean and wash the Hilsa fish thoroughly.\n2. Marinate the fish with turmeric powder and salt for 10 minutes.\n3. Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.\n4. In the same pan, add mustard paste and sauté for a minute.\n5. Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.\n6. Gently place the fried fish in the mustard gravy and cook for another 5 minutes.\n7. Serve hot with steamed rice."
+      "rating": 3.5,
+      "cooking_method": [
+        "Clean and wash the Hilsa fish thoroughly.",
+        "Marinate the fish with turmeric powder and salt for 10 minutes.",
+        "Heat mustard oil in a pan and fry the fish until golden brown. Keep the fried fish aside.",
+        "In the same pan, add mustard paste and sauté for a minute.",
+        "Add a cup of water, green chilies, and salt to taste. Cook for 5 minutes.",
+        "Gently place the fried fish in the mustard gravy and cook for another 5 minutes.",
+        "Serve hot with steamed rice."
+      ]
     }
   },
   {
@@ -56,7 +80,7 @@
     "likes": 3000,
     "bio": "Chef Rahman is an experienced chef specializing in Bangladeshi cuisine. With over 10 years of culinary expertise, he has created numerous delicious recipes that showcase the flavors of Bangladesh.",
     "recipe_1": {
-      "name": "Bangladeshi Chicken Biryani",
+      "name": "Chicken Biryani",
       "ingredients": [
         "1 kg chicken, cut into pieces",
         "3 cups basmati rice",
@@ -71,10 +95,18 @@
         "Handful of fried onions for garnish"
       ],
       "rating": 4.2,
-      "cooking_method": "1. Wash and soak the rice in water for 30 minutes.\n2. Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.\n3. Add ginger-garlic paste to the pot and sauté for a minute.\n4. Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.\n5. Drain the soaked rice and add it to the pot. Stir well.\n6. Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.\n7. Garnish with fried onions and mint leaves. Serve hot."
+      "cooking_method": [
+        "Wash and soak the rice in water for 30 minutes.",
+        "Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.",
+        "Add ginger-garlic paste to the pot and sauté for a minute.",
+        "Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.",
+        "Drain the soaked rice and add it to the pot. Stir well.",
+        "Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.",
+        "Garnish with fried onions and mint leaves. Serve hot."
+      ]
     },
     "recipe_2": {
-      "name": "Bangladeshi Chicken Biryani",
+      "name": "Chicken Biryani",
       "ingredients": [
         "1 kg chicken, cut into pieces",
         "3 cups basmati rice",
@@ -88,11 +120,19 @@
         "Handful of mint leaves",
         "Handful of fried onions for garnish"
       ],
-      "rating": 4.2,
-      "cooking_method": "1. Wash and soak the rice in water for 30 minutes.\n2. Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.\n3. Add ginger-garlic paste to the pot and sauté for a minute.\n4. Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.\n5. Drain the soaked rice and add it to the pot. Stir well.\n6. Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.\n7. Garnish with fried onions and mint leaves. Serve hot."
+      "rating": 5,
+      "cooking_method": [
+        "Wash and soak the rice in water for 30 minutes.",
+        "Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.",
+        "Add ginger-garlic paste to the pot and sauté for a minute.",
+        "Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.",
+        "Drain the soaked rice and add it to the pot. Stir well.",
+        "Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.",
+        "Garnish with fried onions and mint leaves. Serve hot."
+      ]
     },
     "recipe_3": {
-      "name": "Bangladeshi Chicken Biryani",
+      "name": "Chicken Biryani",
       "ingredients": [
         "1 kg chicken, cut into pieces",
         "3 cups basmati rice",
@@ -106,8 +146,16 @@
         "Handful of mint leaves",
         "Handful of fried onions for garnish"
       ],
-      "rating": 4.2,
-      "cooking_method": "1. Wash and soak the rice in water for 30 minutes.\n2. Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.\n3. Add ginger-garlic paste to the pot and sauté for a minute.\n4. Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.\n5. Drain the soaked rice and add it to the pot. Stir well.\n6. Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.\n7. Garnish with fried onions and mint leaves. Serve hot."
+      "rating": 3.8,
+      "cooking_method": [
+        "Wash and soak the rice in water for 30 minutes.",
+        "Heat ghee in a large pot and fry the onions until golden brown. Remove half of the fried onions and set them aside for garnish.",
+        "Add ginger-garlic paste to the pot and sauté for a minute.",
+        "Add chicken pieces, salt, biryani masala, and turmeric powder. Cook until the chicken is browned.",
+        "Drain the soaked rice and add it to the pot. Stir well.",
+        "Add water and bring it to a boil. Reduce the heat, cover the pot, and cook for 15-20 minutes until the rice and chicken are fully cooked.",
+        "Garnish with fried onions and mint leaves. Serve hot."
+      ]
     }
   },
   {
@@ -119,7 +167,7 @@
     "likes": 8000,
     "bio": "Chef Rahman is an experienced chef specializing in Bangladeshi cuisine. With over 10 years of culinary expertise, he has created numerous delicious recipes that showcase the flavors of Bangladesh.",
     "recipe_1": {
-      "name": "Bangladeshi Beef Curry",
+      "name": "Beef Curry",
       "ingredients": [
         "500 grams beef, cut into cubes",
         "2 onions, finely chopped",
@@ -135,10 +183,17 @@
         "Fresh coriander leaves for garnish"
       ],
       "rating": 4.8,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add beef cubes and cook until they are browned on all sides.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add beef cubes and cook until they are browned on all sides.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      ]
     },
     "recipe_2": {
-      "name": "Bangladeshi Beef Curry",
+      "name": "Beef Curry",
       "ingredients": [
         "500 grams beef, cut into cubes",
         "2 onions, finely chopped",
@@ -153,11 +208,18 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.8,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add beef cubes and cook until they are browned on all sides.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      "rating": 4.0,
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add beef cubes and cook until they are browned on all sides.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      ]
     },
     "recipe_3": {
-      "name": "Bangladeshi Beef Curry",
+      "name": "Beef Curry",
       "ingredients": [
         "500 grams beef, cut into cubes",
         "2 onions, finely chopped",
@@ -172,8 +234,15 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.8,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add beef cubes and cook until they are browned on all sides.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      "rating": 4.5,
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add beef cubes and cook until they are browned on all sides.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 1-2 hours until the beef is tender and the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      ]
     }
   },
   {
@@ -196,7 +265,14 @@
         "Oil for frying"
       ],
       "rating": 4.6,
-      "cooking_method": "1. In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.\n2. Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.\n3. Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.\n4. In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.\n5. Place a spoonful of syrup in the pancake and fry"
+      "cooking_method": [
+        "In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.",
+        "Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.",
+        "Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.",
+        "In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.",
+        "Place a spoonful of syrup in the pancake and fold it over to form a semicircle.",
+        "Serve hot and enjoy!"
+      ]
     },
     "recipe_2": {
       "name": "Bangladeshi Pitha",
@@ -209,8 +285,15 @@
         "Salt to taste",
         "Oil for frying"
       ],
-      "rating": 4.6,
-      "cooking_method": "1. In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.\n2. Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.\n3. Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.\n4. In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.\n5. Place a spoonful of syrup in the pancake and fry"
+      "rating": 4.0,
+      "cooking_method": [
+        "In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.",
+        "Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.",
+        "Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.",
+        "In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.",
+        "Place a spoonful of syrup in the pancake and fold it over to form a semicircle.",
+        "Serve hot and enjoy!"
+      ]
     },
     "recipe_3": {
       "name": "Bangladeshi Pitha",
@@ -223,8 +306,15 @@
         "Salt to taste",
         "Oil for frying"
       ],
-      "rating": 4.6,
-      "cooking_method": "1. In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.\n2. Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.\n3. Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.\n4. In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.\n5. Place a spoonful of syrup in the pancake and fry"
+      "rating": 3,
+      "cooking_method": [
+        "In a mixing bowl, combine rice flour and salt. Gradually add water to make a smooth batter.",
+        "Heat a non-stick pan and pour a ladleful of batter. Spread it in a circular motion to form a thin pancake.",
+        "Cook until the pancake is firm and lightly golden. Remove it from the pan and set it aside.",
+        "In a separate pan, melt the jaggery with a little water to make a syrup. Add grated coconut and cardamom powder to the syrup. Cook for a few minutes until the mixture thickens.",
+        "Place a spoonful of syrup in the pancake and fold it over to form a semicircle.",
+        "Serve hot and enjoy!"
+      ]
     }
   },
   {
@@ -252,7 +342,14 @@
         "Fresh coriander leaves for garnish"
       ],
       "rating": 4.7,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add shrimp and cook until they turn pink and are cooked through.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 10 minutes until the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      ]
     },
     "recipe_2": {
       "name": "Shrimp Curry",
@@ -270,8 +367,15 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.7,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      "rating": 4.0,
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add shrimp and cook until they turn pink and are cooked through.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 10 minutes until the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      ]
     },
     "recipe_3": {
       "name": "Shrimp Curry",
@@ -289,8 +393,15 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.7,
-      "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown.\n2. Add ginger paste and garlic paste to the pan. Sauté for a minute.\n3. Add shrimp and cook until they turn pink and are cooked through.\n4. Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.\n5. Cover the pan and simmer for about 10 minutes until the flavors are well combined.\n6. Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      "rating": 5,
+      "cooking_method": [
+        "Heat oil in a pan and fry the onions until golden brown.",
+        "Add ginger paste and garlic paste to the pan. Sauté for a minute.",
+        "Add shrimp and cook until they turn pink and are cooked through.",
+        "Add tomato puree, chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover the pan and simmer for about 10 minutes until the flavors are well combined.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or naan."
+      ]
     }
   },
   {
@@ -313,7 +424,8 @@
         "Fresh coriander leaves for garnish"
       ],
       "rating": 4.4,
-      "cooking_method": "1. Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.\n2. Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.\n3. Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.\n4. Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.\n5. Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."
+      "cooking_method": [  "Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.",  "Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.",  "Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.",  "Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.",  "Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."]
+
     },
     "recipe_2": {
       "name": "Aloo Posto",
@@ -326,8 +438,9 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.4,
-      "cooking_method": "1. Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.\n2. Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.\n3. Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.\n4. Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.\n5. Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."
+      "rating": 3.4,
+      "cooking_method": [  "Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.",  "Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.",  "Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.",  "Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.",  "Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."]
+
     },
     "recipe_3": {
       "name": "Aloo Posto",
@@ -340,8 +453,9 @@
         "Salt to taste",
         "Fresh coriander leaves for garnish"
       ],
-      "rating": 4.4,
-      "cooking_method": "1. Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.\n2. Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.\n3. Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.\n4. Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.\n5. Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."
+      "rating": 5,
+      "cooking_method": [  "Soak poppy seeds in water for 30 minutes. Drain and grind them to make a paste.",  "Heat mustard oil in a pan and add the cubed potatoes. Fry them until they are slightly golden.",  "Add the poppy seed paste, green chilies, turmeric powder, and salt. Mix well.",  "Cover the pan and cook on low heat until the potatoes are tender and the flavors are well blended.",  "Garnish with fresh coriander leaves. Serve hot with steamed rice or roti."]
+
     }
   }
 ]

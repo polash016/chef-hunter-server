@@ -5,7 +5,7 @@ const cors = require('cors')
 
 const data = require('./data/data.json');
 
-app.use(corse())
+app.use(cors())
 
 app.get('/', (req, res) => {
     res.send("Server Is Running")
